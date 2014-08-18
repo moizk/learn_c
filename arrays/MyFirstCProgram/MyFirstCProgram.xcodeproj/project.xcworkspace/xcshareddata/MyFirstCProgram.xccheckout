@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1A03B9D-6DE1-4CE1-AF06-2E0B9103A5DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyFirstCProgram</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EF5FB887-D14F-49AA-9480-B95A6C17EE6B</key>
+		<string>https://github.com/moizk/learn_c.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>arrays/MyFirstCProgram/MyFirstCProgram.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EF5FB887-D14F-49AA-9480-B95A6C17EE6B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/moizk/learn_c.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EF5FB887-D14F-49AA-9480-B95A6C17EE6B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EF5FB887-D14F-49AA-9480-B95A6C17EE6B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>learn_c</string>
+		</dict>
+	</array>
+</dict>
+</plist>
