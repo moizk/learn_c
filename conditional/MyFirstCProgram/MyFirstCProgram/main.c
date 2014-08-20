@@ -15,12 +15,23 @@ int main()
     char b = 'b';
     char g = 'g';
     
-    char letter = 'z';
+    char letter = 'b';
     
-    if (letter == a) printf("letter %c is %c\n", letter, a);
-    else if (letter == b) printf("letter %c is %c\n", letter, b);
-    else if (letter == g) printf("letter %c is %c\n", letter, g);
-    else printf("letter %c not found\n", letter);
+    switch (letter) {
+        case 'a':
+            printf("letter %c is %\n", letter, a);
+            break;
+        case 'b':
+            printf("letter %c is %c\n", letter, b);
+            break;
+        case 'g':
+            printf("letter %c is %c\n", letter, g);
+            break;
+            
+        default:
+            printf("letter %c is not found\n", letter);
+            break;
+    }
 
     return 0;
 }
